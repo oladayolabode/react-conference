@@ -1,0 +1,17 @@
+.container{
+    margin-top: 50px;
+}
+.speakers{
+    display: flex;
+    justify-content: space-around;
+    margin: auto;
+}
+.speakers div{
+    cursor: pointer;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+.speakers img{
+    width: 20rem;
+    height: 20rem;
+}

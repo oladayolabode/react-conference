@@ -1,0 +1,29 @@
+.container img{
+    margin-top: 2rem;
+    width: 100%;
+    height: 30rem;
+    margin: auto;
+    background-color:#8a7a7a;
+}
+.container{
+    background-color:#8a7a7a;
+}
+.container p{
+    text-align: center;
+    font-size: 40px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.button{
+    text-align: center;
+}
+.button button{
+    width: 25rem;
+    height: 5rem;
+    font-size: 30px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-bottom: 100px;
+}

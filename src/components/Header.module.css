@@ -1,0 +1,25 @@
+.header{
+    background-color: #8a7a7a;
+    font-weight: 700;
+    font-size: 30px;
+    padding: 20px;
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    margin-top: -10px; 
+}
+.header nav{
+    display: flex;
+    list-style-type: none;
+    gap: 4rem;
+}
+.header nav li{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    cursor: pointer;
+    transition: font-weight 0.3s ease, background-color 0.3s ease;
+}
+.header p{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 40px;
+}
+
